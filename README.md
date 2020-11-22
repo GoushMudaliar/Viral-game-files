@@ -1,2 +1,2 @@
-# Viral-game-files
-Code bank for the game I am working on
+# README
+WARNING, this code is the property of Goush Manikhandan Mudaliar. Do not copy. 
